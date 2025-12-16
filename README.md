@@ -35,25 +35,12 @@ LLM-Lean-Feedback/
 
 │   ├── binary_correctness.ipynb
 
-│   ├── logs/
-
-│   │   ├── build_log_1.docx
-
-│   │   ├── build_log_2.docx
-
-│   │   └── build_log_3.docx
-
-│   └── output/
-
 │
 
 ├── problem_2/
 
 │   ├── code.ipynb
 
-│   └── results.docx
-
-│
 
 ├── problem_3/
 
@@ -61,13 +48,10 @@ LLM-Lean-Feedback/
 
 │   │   ├── code.ipynb
 
-│   │   └── logs/   # 1000 CSVs
-
 │   └── test_2/
 
-│       ├── code.ipynb
+|   |  ├── code.ipynb
 
-│       └── logs/   # 165 files
 
 ## Dataset
 The MATH dataset (Hendrycks et al) is not included due to licensing restrictions.
@@ -76,3 +60,6 @@ The MATH dataset (Hendrycks et al) is not included due to licensing restrictions
 - Python 3.x
 - Lean 4 + mathlib
 - Jupyter Notebook
+
+## Additional Remarks
+- Output Logs will be shared upon request.
