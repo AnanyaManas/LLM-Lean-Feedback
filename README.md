@@ -18,13 +18,21 @@ approach improves the reliability of LLMs in producing correct, machine-verifiab
 
 ## Structure of the Repository
 LLM-Lean-Feedback/
+
 │
+
 ├── README.md
+
 │
+
 ├── data/
+
 │   └── README.md   # explains how to obtain MATH dataset
+
 │
+
 ├── problem_1/
+
 │   ├── error_feedback.ipynb
 │   ├── binary_correctness.ipynb
 │   ├── logs/
