@@ -25,9 +25,7 @@ LLM-Lean-Feedback/
 
 │
 
-├── data/
-
-│   └── README.md   # explains how to obtain MATH dataset
+├── Dissertation.pdf
 
 │
 
@@ -70,12 +68,6 @@ LLM-Lean-Feedback/
 │       ├── code.ipynb
 
 │       └── logs/   # 165 files
-
-│
-
-└── dissertation/
-
-    └── dissertation.pdf
 
 ## Dataset
 The MATH dataset (Hendrycks et al) is not included due to licensing restrictions.
