@@ -34,26 +34,47 @@ LLM-Lean-Feedback/
 ├── problem_1/
 
 │   ├── error_feedback.ipynb
+
 │   ├── binary_correctness.ipynb
+
 │   ├── logs/
+
 │   │   ├── build_log_1.docx
+
 │   │   ├── build_log_2.docx
+
 │   │   └── build_log_3.docx
+
 │   └── output/
+
 │
+
 ├── problem_2/
+
 │   ├── code.ipynb
+
 │   └── results.docx
+
 │
+
 ├── problem_3/
+
 │   ├── test_1/
+
 │   │   ├── code.ipynb
+
 │   │   └── logs/   # 1000 CSVs
+
 │   └── test_2/
+
 │       ├── code.ipynb
+
 │       └── logs/   # 165 files
+
 │
+
 └── dissertation/
+
     └── dissertation.pdf
 
 ## Dataset
